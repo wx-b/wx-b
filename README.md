@@ -1,6 +1,6 @@
 ### wx-b
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wx-b&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wx-b&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
