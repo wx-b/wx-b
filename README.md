@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ### Hi there 👋 -->
-I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
-
- - If you are interested in the topics below have a look at ML-Quant resources https://www.ml-quant.com/
- - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
- - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
-
 
 <table width="100%"> 
   <tr>
