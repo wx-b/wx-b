@@ -3,6 +3,8 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wx-b&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **wx-b/wx-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
