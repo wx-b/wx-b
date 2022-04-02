@@ -21,22 +21,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[https://wx-b.github.io/](https://wx-b.github.io/)
+
 
 <table width="100%"> 
   <tr>
   <td width="50%">
-      [https://wx-b.github.io/](https://wx-b.github.io/)
+    
+  &nbsp; <br> [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/backside9)
+      
 
 
   </td>
-  <td width="50%">  
+<!--   <td width="50%">   -->
  
 
-&nbsp; <br> [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/backside9)
 <!-- feed start -->
 <!-- feed end -->
 
-  </td>
+<!--   </td> -->
   </table>
   
 <!-- <table width="100%"> 
@@ -47,16 +50,16 @@ Here are some ideas to get you started:
 
 <!-- cv end -->
 
-  </td>
-  <td width="50%">
+<!--   </td>
+  <td width="50%"> -->
   
 <!-- stats start -->
 
 <!-- stats end -->
 
-  </td>
-  </table>
+<!--   </td>
+  </table> -->
   
 <!-- projects start -->
 
-<!-- projects end --> -->
+<!-- projects end -->
