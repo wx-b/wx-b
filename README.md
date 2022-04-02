@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <td width="50%">
       
 &nbsp; <br> [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/backside9)
-&nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/backside9)
 
   </td>
   <td width="50%">  
