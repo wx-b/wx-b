@@ -5,6 +5,7 @@
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
+
 <!--
 **wx-b/wx-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,20 +25,21 @@ Here are some ideas to get you started:
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/backside9)
+      [https://wx-b.github.io/](https://wx-b.github.io/)
+
 
   </td>
   <td width="50%">  
  
-<!-- feed start -->
 
+&nbsp; <br> [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=backside9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/backside9)
+<!-- feed start -->
 <!-- feed end -->
 
   </td>
   </table>
   
-<table width="100%"> 
+<!-- <table width="100%"> 
   <tr>
   <td width="50%">
 
@@ -57,4 +59,4 @@ Here are some ideas to get you started:
   
 <!-- projects start -->
 
-<!-- projects end -->
+<!-- projects end --> -->
