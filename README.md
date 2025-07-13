@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [https://wx-b.github.io/](https://wx-b.github.io/)
 
 
-<table width="100%"> 
+<!--   <table width="100%"> 
   <tr>
   <td width="50%">
     
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 
   </td>
+  -->
 <!--   <td width="50%">   -->
  
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 <!-- feed end -->
 
 <!--   </td> -->
-  </table>
+  <!--   </table> -->
   
 <!-- <table width="100%"> 
   <tr>
